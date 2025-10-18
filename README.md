@@ -1,4 +1,4 @@
-# 👨‍💻Caio Melo
+# 👨🏻‍💻Caio Melo
 
 **`Desenvolvedor FullStack`**
 
