@@ -17,6 +17,14 @@
 
 <img
     align="left"
+    alt="Angular"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" 
+/>
+
+<img
+    align="left"
     alt="Docker"
     width="30px"
     style="padding-right:10px;"
@@ -50,13 +58,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" 
 />
 
-<img
-    align="left"
-    alt="Angular"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" 
-/>
+
 
 <img
     align="left"
