@@ -2,8 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img
